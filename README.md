@@ -3,7 +3,7 @@
 <head>
 	<meta charset = "utf-8">
 	<title>Hello Coursera!</title>
-	<link rel="stylesheet" href="stylesheet">
+	<link rel="stylesheet" href="stylesheet.css">
 </head>
 <body>
 	<h1>Hello!!1!! Hiiiii!11!!!!! Heloooooooo!1!!1!!!</h1>
