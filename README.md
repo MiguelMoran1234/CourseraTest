@@ -4,34 +4,6 @@
 	<meta charset = "utf-8">
 	<title>Hello Coursera!</title>
 	<link rel="stylesheet" href="stylesheet">
-	<style>
-		/* h1 is an element selector */
-		h1 {
-			font-size: 40px;
-			text-align: center;
-		}
-		/* .black is a class selector (class="black" to use, ex: <p class="black"> .... </p>) */
-		.black {
-			color: black;
-		}
-		/* #black is an id selector  (id="name" to use, ex: <p id="name"> .... </p>) */
-		#name {
-			font-weight: bold;
-		}
-		/* Selectors can be grouped with: selec1, selec2 { .... } */
-		/* Selectors can be grouped with like element with class selector using: selec.classSelec{ .... }. And only the specified selector with the specified class will be affected */
-		/* Selectors can be grouped like child selectors using: selec1 > selec2{ .... }. And it will only affect the specified selec2 that is a direct child of selec1 */
-		/* Selectors can be grouped like descendant selectors using: selec1 selec2{ .... }. And it will affect all specified selec2 inside selec1 */
-		/* Pseudo-class selectors are a different type of selectors and their syntax is selector:pseudo-classSelector and they are:
-			:link - for links
-			:visited - visited links
-			:hover - when the mouse is hovering over the element
-			:active - when the user clicks in the element but hasnt let go
-			:nth-child(...) - to target a specific child of the selector
-			*the nth-child pseudo-selector can be used to specify multiple children like all odd or all even
-		*/
-		
-	</style>
 </head>
 <body>
 	<h1>Hello!!1!! Hiiiii!11!!!!! Heloooooooo!1!!1!!!</h1>
